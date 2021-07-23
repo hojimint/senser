@@ -32,14 +32,12 @@ CO2요청 :010400030001F7\r\n
 
 i2r-%% wifi를 연결해주면 OLED에 '192.168.4.1'이 나타나는데 i2r wifi가 `연결된 상태`에서 주소창에 입력
 ### 3. 홈페이지 진입
-![image](https://user-images.githubusercontent.com/83691399/126780249-11a7d701-11aa-4a6e-bdf6-d13115f914a8.png)
+![image](https://user-images.githubusercontent.com/83691399/126778330-63100784-5e85-4be9-8489-14bb139bf9d1.png)
 
 홈페이지에 들어온 후에 좌측 상단 三를 선택
 ### 4. 와이파이 설정-1 단계
 ![KakaoTalk_20210723_205310010_01](https://user-images.githubusercontent.com/83691399/126780079-07840cfc-1a93-4bbf-b13b-2e3110ca2b15.jpg)
-
 메뉴에 들어와 와이파이 설정 클릭
-![image](https://user-images.githubusercontent.com/83691399/126778330-63100784-5e85-4be9-8489-14bb139bf9d1.png)
 
 ### 5. 와이파이 설정-2 단계
 ![KakaoTalk_20210723_205310010_02](https://user-images.githubusercontent.com/83691399/126780123-add4d5f1-66d0-4bf1-bbca-1416d6a26fd2.jpg)
