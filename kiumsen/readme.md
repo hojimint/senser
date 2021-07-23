@@ -34,7 +34,7 @@ i2r-%% wifi를 연결해주면 OLED에 '192.168.4.1'이 나타나는데 i2r wifi
 ### 3. 홈페이지 진입
 ![image](https://user-images.githubusercontent.com/83691399/126776951-9e653337-48b3-4bc4-a419-f141e57f9ce7.png)
 
-홈페이지에 들어온 후에 좌측 상단 三를 선택(파랑색 동그라미)
+홈페이지에 들어온 후에 좌측 상단 三를 선택
 ### 4. 와이파이 설정-1 단계
 ![KakaoTalk_20210723_205310010_01](https://user-images.githubusercontent.com/83691399/126778287-9a1f9dc5-6338-4862-925e-bf33e53389ac.jpg)
 
