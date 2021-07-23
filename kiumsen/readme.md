@@ -32,22 +32,21 @@ CO2요청 :010400030001F7\r\n
 
 i2r-%% wifi를 연결해주면 OLED에 '192.168.4.1'이 나타나는데 i2r wifi가 `연결된 상태`에서 주소창에 입력
 ### 3. 홈페이지 진입
-![image](https://user-images.githubusercontent.com/83691399/126776951-9e653337-48b3-4bc4-a419-f141e57f9ce7.png)
+![KakaoTalk_20210723_205310010_01](https://user-images.githubusercontent.com/83691399/126779826-0ddd41d0-0e73-44dd-8cfa-c48089759938.jpg)
 
 홈페이지에 들어온 후에 좌측 상단 三를 선택
 ### 4. 와이파이 설정-1 단계
-![KakaoTalk_20210723_205310010_01](https://user-images.githubusercontent.com/83691399/126778287-9a1f9dc5-6338-4862-925e-bf33e53389ac.jpg)
-
+![KakaoTalk_20210723_205310010_01](https://user-images.githubusercontent.com/83691399/126780079-07840cfc-1a93-4bbf-b13b-2e3110ca2b15.jpg)
 
 메뉴에 들어와 와이파이 설정 클릭
 ![image](https://user-images.githubusercontent.com/83691399/126778330-63100784-5e85-4be9-8489-14bb139bf9d1.png)
 
 ### 5. 와이파이 설정-2 단계
-![KakaoTalk_20210723_205310010_02](https://user-images.githubusercontent.com/83691399/126778190-6c1a2ac8-cadc-4f0b-bde1-768a5ca9b24a.jpg)
+![KakaoTalk_20210723_205310010_02](https://user-images.githubusercontent.com/83691399/126780123-add4d5f1-66d0-4bf1-bbca-1416d6a26fd2.jpg)
 
 와이파이 이름과 비밀번호에 주변에서 사용하고 있는 와이파이를 입력
 ### 6. 와이파이 설정-3 단계
-![mqtt 6](https://user-images.githubusercontent.com/37902752/126635746-1390f1db-d594-4352-86c8-6420861d871d.JPG)
+![KakaoTalk_20210723_205310010_03](https://user-images.githubusercontent.com/83691399/126780154-b60a4038-f13b-4ac4-8d3a-ca85a8699053.jpg)
 
 와이파이를 설정해주면 홈페이지 연결이 끊기는데 당연한거라 괜찮습니다. 그 뒤 컴퓨터 wifi를 칸에 입력했던 와이파이를 연결
 ![KakaoTalk_20210723_205310010_03](https://user-images.githubusercontent.com/83691399/126778366-46c3b8ad-c9b1-4a1d-a253-29bdc699fc1a.jpg)
